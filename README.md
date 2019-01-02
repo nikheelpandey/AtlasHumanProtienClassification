@@ -18,9 +18,9 @@ Images visualizing proteins in cells are commonly used for biomedical research, 
 
 ## What am I looking at?
 
-You are looking at a repository aimed at classification of cell bodies present in images. First, there is an analysis of the dataset. Then we have used transfer learning on pretrained networks to build a classifier. This repository contains such experiments and discusses the results/output analysing the differences in performance from one change to another.
+You are looking at a repository aimed at classification of cell bodies present in images. First, there is an analysis of the dataset. Then I have used transfer learning on pretrained networks to build a classifier. This repository contains such experiments and discusses the results/output analysing the differences in performance from one change to another.
 
-This is my first attempt at both transfer learning and bio-medical image analysis. I am trying to provide a code base that is not too complex and would also provide a jupyter notebook. I would welcome any correction and criticism as this is the main aim of this activity.
+This is my first attempt at both transfer learning and bio-medical image analysis. I am trying to provide a code base that is not too complex and would also provide jupyter notebook for better visualization. I would welcome any correction and criticism as this is the main aim of this activity.
 
 ## Credits
 Credit goes to kaggle for providing computational resources and the organisers of [Human Protein Classification Challenge](https://www.kaggle.com/c/human-protein-atlas-image-classification/data) for providing an amazing dataset. Credit is also due to individual kagglers for providing guidance and further resources.
